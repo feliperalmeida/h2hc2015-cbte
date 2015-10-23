@@ -3,4 +3,5 @@ Este repositório contém os recursos que foram utilizados na palestra "Cérebro
 
 ## Autores
 Felipe Almeida | @feliperalmeida
+
 Lucas Moura    | @mourackb
