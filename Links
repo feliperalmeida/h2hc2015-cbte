@@ -27,6 +27,8 @@ VMM criadas por Tobias Klein <http://www.trapkit.de/research/vmm/>
 Virtual Box<http://www.virtualbox.org>
 Cuckoo <http://www.cuckoosandbox.org>
 Cuckoo Modified <https://github.com/brad-accuvant/cuckoo-modified>
+Anubis Sandbox <https://anubis.iseclab.org/>
+Hybrid Sandbox <https://www.hybrid-analysis.com/>
 Pafish (Paranoid fish><https://github.com/a0rtega/pafish>
 Module Human <https://github.com/brad-accuvant/cuckoo-modified/blob/master/analyzer/windows/modules/auxiliary/human.py>
 
