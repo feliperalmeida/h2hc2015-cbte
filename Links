@@ -28,3 +28,4 @@ Virtual Box<http://www.virtualbox.org>
 Cuckoo <http://www.cuckoosandbox.org>
 Cuckoo Modified <https://github.com/brad-accuvant/cuckoo-modified>
 Pafish (Paranoid fish><https://github.com/a0rtega/pafish>
+Module Human <https://github.com/brad-accuvant/cuckoo-modified/blob/master/analyzer/windows/modules/auxiliary/human.py>
