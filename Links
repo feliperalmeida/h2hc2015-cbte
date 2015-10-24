@@ -18,7 +18,7 @@ Cg01 evading code emulation writing ridiculously obvious malware that bypasses a
 Relatório da FireEye sobre suas detcções recentes de malware evasion <https://www.fireeye.com/blog/threat-research/2014/06/turing-test-in-reverse-new-sandbox-evasion-techniques-seek-human-interaction.html>
 Apresentação de Christopher Kruegel sobre emulação de ambientes para análise dinâmica <https://www.blackhat.com/docs/us-14/materials/us-14-Kruegel-Full-System-Emulation-Achieving-Successful-Automated-Dynamic-Analysis-Of-Evasive-Malware.pdf>
 Alguns tricks para Malware Evasion <http://www.malwarestats.org/tricks.html>
-
+SObre a função sleep <https://github.com/brad-accuvant/cuckoomon-modified/blob/MSVC/hook_sleep.c>
 Career path
 Recomendações do CERT para montar uma equipe <http://www.cert.org/incident-management/csirt-development/csirt-staffing.cfm?>
 
@@ -29,3 +29,6 @@ Cuckoo <http://www.cuckoosandbox.org>
 Cuckoo Modified <https://github.com/brad-accuvant/cuckoo-modified>
 Pafish (Paranoid fish><https://github.com/a0rtega/pafish>
 Module Human <https://github.com/brad-accuvant/cuckoo-modified/blob/master/analyzer/windows/modules/auxiliary/human.py>
+
+
+##############################################################################################################
